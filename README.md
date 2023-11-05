@@ -1,2 +1,1 @@
-# LMS
- student empolyee managment system
+npm i lmspiaic-batch47
